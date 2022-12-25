@@ -63,22 +63,29 @@ MFCC + pitch features were generated using Kaldi
 
 ## Open-Source Citations
 Language Data Sources
+ - [VoxForge](http://www.voxforge.org/home)
+ - [VoxLingua107](http://bark.phon.ioc.ee/voxlingua107/)
  - [MediaSpeech](https://openslr.org/108/)
+ - [BibleTTS](https://openslr.org/129/)
  - [African Accented French](https://openslr.org/57/)
+ - [Free ST American English Corpus](https://openslr.org/45/)
+ - [FHNW Swiss Parliament](https://huggingface.co/datasets/Yves/fhnw_swiss_parliament)
+ - [Samromur 21.05](https://www.openslr.org/112/)
+ - [Russian LibriSpeech](https://openslr.org/96/)
+ - [Iban](https://www.openslr.org/24/)
+ - [THUYG-20](https://www.openslr.org/22/)
+ - [Zeroth-Korean](https://www.openslr.org/40/)
+ - [Kashmiri Data Corpus](https://www.openslr.org/122/)
+ - [Large Bengali ASR training data set](https://openslr.org/53/)
  - [Crowdsourced high-quality Chilean Spanish speech data set](https://www.openslr.org/71/)
  - [Crowdsourced high-quality Colombian Spanish speech data set](https://www.openslr.org/72/)
  - [Crowdsourced high-quality Peruvian Spanish speech data set](https://www.openslr.org/73/)
  - [Crowdsourced high-quality Puerto Rico Spanish speech data set](https://www.openslr.org/74/)
- - [Free ST American English Corpus](https://openslr.org/45/)
- - [FHNW Swiss Parliament](https://huggingface.co/datasets/Yves/fhnw_swiss_parliament)
- - [Samromur 21.05](https://www.openslr.org/112/)
- - [VoxForge](http://www.voxforge.org/home)
- - [Russian LibriSpeech](https://openslr.org/96/)
- - [BibleTTS](https://openslr.org/129/)
- - [Iban](https://www.openslr.org/24/)
  - [Crowdsourced high-quality Burmese speech data set](https://openslr.org/80/)
- - [VoxLingua107](http://bark.phon.ioc.ee/voxlingua107/)
  - [Crowdsourced high-quality Telugu multi-speaker speech data set](https://openslr.org/66/)
+ - [Crowdsourced high-quality Malayalam multi-speaker speech data set](https://openslr.org/63/)
+ - [Crowdsourced high-quality Tamil multi-speaker speech data set](https://openslr.org/65/)
+ - [Crowdsourced high-quality Catalan speech data set](https://openslr.org/69/)
 
 Basic PyTorch TDNN Reference
  - https://github.com/cvqluu/TDNN
