@@ -57,8 +57,9 @@ $ python3 train_lda_plda.py ./saved-tdnn-outputs
 ## Feature Generation
 MFCC + pitch features were generated using Kaldi
  - MFCC and pitch conf files can be found in the `mfcc-confs` subdir
+   - Originally found in `kaldi/egs/tedlium/s5_r3/scripts/conf/mfcc.conf` and `kaldi/egs/tedlium/s5_r3/scripts/conf/pitch.conf`
  - Also in that subdir is our modified version of the `make_mfcc_pitch.sh` script
-   - Originally found in and runnable from XXXXXXXXX
+   - Originally found in and runnable from
 
 ## Open-Source Citations
 Language Data Sources
