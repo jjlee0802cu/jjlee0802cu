@@ -63,8 +63,22 @@ MFCC + pitch features were generated using Kaldi
 
 ## Open-Source Citations
 Language Data Sources
- - FILL
- - FILL
+ - [MediaSpeech](https://openslr.org/108/)
+ - [African Accented French](https://openslr.org/57/)
+ - [Crowdsourced high-quality Chilean Spanish speech data set](https://www.openslr.org/71/)
+ - [Crowdsourced high-quality Colombian Spanish speech data set](https://www.openslr.org/72/)
+ - [Crowdsourced high-quality Peruvian Spanish speech data set](https://www.openslr.org/73/)
+ - [Crowdsourced high-quality Puerto Rico Spanish speech data set](https://www.openslr.org/74/)
+ - [Free ST American English Corpus](https://openslr.org/45/)
+ - [FHNW Swiss Parliament](https://huggingface.co/datasets/Yves/fhnw_swiss_parliament)
+ - [Samromur 21.05](https://www.openslr.org/112/)
+ - [VoxForge](http://www.voxforge.org/home)
+ - [Russian LibriSpeech](https://openslr.org/96/)
+ - [BibleTTS](https://openslr.org/129/)
+ - [Iban](https://www.openslr.org/24/)
+ - [Crowdsourced high-quality Burmese speech data set](https://openslr.org/80/)
+ - [VoxLingua107](http://bark.phon.ioc.ee/voxlingua107/)
+ - [Crowdsourced high-quality Telugu multi-speaker speech data set](https://openslr.org/66/)
 
 Basic PyTorch TDNN Reference
  - https://github.com/cvqluu/TDNN
